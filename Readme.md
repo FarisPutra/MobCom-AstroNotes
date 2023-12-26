@@ -22,7 +22,7 @@ AstroNotes is a note-taking app that lets you:
 - Sort your notes by title, date, or color.
 
 ## Demo
-[ ![Demo Video of AstroNotes](https://unjac-my.sharepoint.com/:i:/g/personal/muhammadfarisheruputra_1313621014_mhs_unj_ac_id/Ecyfr6YcAxBKuMvff7x2nrsBjMT1g6qs7vxJiO4L8Eq7GA?e=b0y3Hm) ](https://unjac-my.sharepoint.com/:v:/g/personal/muhammadfarisheruputra_1313621014_mhs_unj_ac_id/Ed-rIKzUMSNGsvulFcqf22ABt3jVNmiUrV1Oz1txk8EjyQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=K2YkHu)
+[ ![Demo Video of AstroNotes](img/video_thumb.jpeg) ](https://unjac-my.sharepoint.com/:v:/g/personal/muhammadfarisheruputra_1313621014_mhs_unj_ac_id/Ed-rIKzUMSNGsvulFcqf22ABt3jVNmiUrV1Oz1txk8EjyQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=K2YkHu)
 
 
 ## Gallery
@@ -61,9 +61,9 @@ AstroNotes is a note-taking app that lets you:
 </table>
 
 <table>
-    <tr><td><img src="img/Image Landscape (1).png" alt="Image Landscape 1" height=500px></td></tr>
-    <tr><td><img src="img/Image Landscape (2).png" alt="Image Landscape 2" height=500px></td></tr>
-    <tr><td><img src="img/Image Landscape (3).png" alt="Image Landscape 3" height=500px></td></tr>
+    <tr><td><img src="img/Image Landscape (1).png" alt="Image Landscape 1" height=400px></td></tr>
+    <tr><td><img src="img/Image Landscape (2).png" alt="Image Landscape 2" height=400px></td></tr>
+    <tr><td><img src="img/Image Landscape (3).png" alt="Image Landscape 3" height=400px></td></tr>
 </table>
 
 ## Extra
