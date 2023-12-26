@@ -23,11 +23,30 @@ import androidx.core.view.WindowCompat
 //)
 
 private val DarkColorScheme = darkColorScheme(
-    primary = Color.White,
-    background = DarkGray,
-    onBackground = Color.White,
-    surface = LightBlue,
-    onSurface = DarkGray
+    primary = LightTurqoise,
+    onPrimary = DarkTeal2,
+    primaryContainer = Teal2,
+    onPrimaryContainer = BluishWhite2,
+    secondary = BrightGreen,
+    onSecondary = DarkerGreen2,
+    secondaryContainer = DarkGreen2,
+    onSecondaryContainer = LightGreen2,
+    tertiary = Lavender,
+    onTertiary = DarkPurple2,
+    tertiaryContainer = Purple2,
+    onTertiaryContainer = LightPurple2,
+    error = RoseRed,
+    onError = DarkRed2,
+    errorContainer = Red2,
+    onErrorContainer = LightRed,
+    background = Black2,
+    onBackground = LightGray2,
+    surface = Black2,
+//    onSurface = LightGray2,
+    onSurface = DarkGray1,
+    outline = Gray2,
+    surfaceVariant = DarkGray1,
+    onSurfaceVariant = LightGray3
 )
 
 //private val LightColorScheme = lightColorScheme(
@@ -47,11 +66,29 @@ private val DarkColorScheme = darkColorScheme(
 //)
 
 private val LightColorScheme = lightColorScheme(
-    primary = Color.Black,
-    background = LightGray,
-    onBackground = Color.Black,
-    surface = BabyBlue,
-    onSurface = LightGray
+    primary = Teal1,
+    onPrimary = White,
+    primaryContainer = BluishWhite1,
+    onPrimaryContainer = DarkTeal1,
+    secondary = DarkGreen1,
+    onSecondary = White,
+    secondaryContainer = LightGreen1,
+    onSecondaryContainer = DarkerGreen1,
+    tertiary = Purple1,
+    onTertiary = White,
+    tertiaryContainer = LightPurple1,
+    onTertiaryContainer = DarkPurple1,
+    error = Red1,
+    onError = White,
+    errorContainer = LightRed,
+    onErrorContainer = DarkRed1,
+    background = White2,
+    onBackground = Black2,
+    surface = White2,
+    onSurface = Black2,
+    outline = Gray1,
+    surfaceVariant = LightGray1,
+    onSurfaceVariant = DarkGray1
 )
 
 @Composable
@@ -81,7 +118,7 @@ fun AstroNotesTheme(
     MaterialTheme(
       colorScheme = colorScheme,
       typography = Typography,
-        shapes = Shapes,
+      shapes = Shapes,
       content = content
     )
 }
