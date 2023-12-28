@@ -2,11 +2,12 @@
 
 ## Biodata
 ```
-Nama : Muhammad Faris Heruputra  
-NIM  : 1313621014
+Nama  : Muhammad Faris Heruputra  
+NIM   : 1313621014
+Prodi : Ilmu Komputer 2021
 ```
 
-## Why this app exist?
+## Why does this app exist?
 
 The main reason why this app exists is for learning purposes, that is, to demonstrate how the Clean Architecture pattern can be implemented in Android development. By using this pattern, the app can achieve several benefits, such as:
 - Separating the concerns of different layers of the application, such as presentation, business logic, data access, etc.
@@ -20,6 +21,7 @@ AstroNotes is a note-taking app that lets you:
 - Create, edit, and delete sticky notes with titles and content bodies.
 - Use predefined colors to tag your notes with different meanings.
 - Sort your notes by title, date, or color.
+- Restore recently deleted note.
 
 ## Demo Video
 [ ![Demo Video of AstroNotes](img/video_thumb.jpeg) ](https://unjac-my.sharepoint.com/:v:/g/personal/muhammadfarisheruputra_1313621014_mhs_unj_ac_id/Ed-rIKzUMSNGsvulFcqf22ABt3jVNmiUrV1Oz1txk8EjyQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=K2YkHu)
